@@ -1,0 +1,13 @@
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\obj\Debug\netcoreapp3.1\TP1.B.csprojAssemblyReference.cache
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\obj\Debug\netcoreapp3.1\TP1.B.AssemblyInfoInputs.cache
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\obj\Debug\netcoreapp3.1\TP1.B.AssemblyInfo.cs
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\obj\Debug\netcoreapp3.1\TP1.B.csproj.CoreCompileInputs.cache
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\bin\Debug\netcoreapp3.1\TP1.B.exe
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\bin\Debug\netcoreapp3.1\TP1.B.deps.json
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\bin\Debug\netcoreapp3.1\TP1.B.runtimeconfig.json
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\bin\Debug\netcoreapp3.1\TP1.B.runtimeconfig.dev.json
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\bin\Debug\netcoreapp3.1\TP1.B.dll
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\bin\Debug\netcoreapp3.1\TP1.B.pdb
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\obj\Debug\netcoreapp3.1\TP1.B.dll
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\obj\Debug\netcoreapp3.1\TP1.B.pdb
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP1\TP1.B\TP1.B\obj\Debug\netcoreapp3.1\TP1.B.genruntimeconfig.cache
