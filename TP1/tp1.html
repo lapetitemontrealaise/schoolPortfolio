@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+        <meta charset="UTF-8" >
+        <script src="tp1JS.js"></script> <!--Lien pour relier le fichier JS-->
+        <link rel="stylesheet" href="cssTP1.css">
+		<title> Acceuil </title>
+	</head>
+	<body onLoad="remplirSelEntrees(); remplirSelPlat();" style="color: #FFFFFF;background-color:#1b0007;"> <!--événement pour appeler fonction-->
+		<div id="conteneur">
+			<header id="header"> <!-- l'entete de la page -->
+				<table class="table2">
+                    <tr class="tr2">
+                        <td class="td2">Menu</td>
+                        <td class="td4"><h1>Restaurant chez Tchoupie</h1></td>
+                        <td class="td3">Travail pratique par Clémence Guillou-Ouellette</td>
+                    </tr>
+                </table>
+			</header>
+			<nav> 
+			</nav>
+            <main> 
+                <div class="hero">
+                    <div class="rectangle">
+                        <div class="choix">
+                            <h1>Faites votre choix:</h1>
+                        </div>
+                        <div class="selection">
+                            <label>Entrée:</label> 
+                            <select id="selEntrees" onChange="infosEntreeChoisi(this);"></select>
+                            <br>
+                            <br>
+                            <img src="" alt="imagerepas" id="imageEntree" class="image"> 
+                            <p id="prixEntree"></p>
+                            <label>Repas:</label>    
+                            <select id="selPlat" onChange="infosPlatChoisi(this);"></select>
+                            <br>
+                            <br>
+                            <img src="" alt="imagerepas" id="imagePlat">
+                            <p id="prixPlat"></p>
+                        </div>
+                        <div class="total">
+                            <p id="sousTotal"></p>
+                            <p id="taxes"></p>
+                            <p id="totalFacture"></p>
+                        </div>
+                    </div>
+                </div>
+			</main>
+			<footer> 
+				<div class="footer" >
+					<h1> Bon App&eacute;tit!</h1>
+				</div>
+			</footer>
+		</div> <!-- fin du conteneur --> 
+	</body>
+</html>
