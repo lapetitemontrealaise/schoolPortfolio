@@ -1,2 +1,0 @@
-# schoolPortfolio
-Computer Science projects
