@@ -1,0 +1,13 @@
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.exe
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.deps.json
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.runtimeconfig.json
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.runtimeconfig.dev.json
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.dll
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.pdb
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.csprojAssemblyReference.cache
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.AssemblyInfoInputs.cache
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.AssemblyInfo.cs
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.csproj.CoreCompileInputs.cache
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.dll
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.pdb
+C:\Users\cle_g\Desktop\CGO\École\Hiver 2021\IFT1179 - C Sharp\TP2\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.genruntimeconfig.cache

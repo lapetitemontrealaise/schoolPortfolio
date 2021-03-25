@@ -1,0 +1,8 @@
+14567;Toronto;12 04 2002;167
+17890;Guadeloupe;01 05 2002;340
+19012;Nouvelle-Orleans;03 05 2002;250
+22345;Martinique;25 04 2002;337
+28901;Las Vegas;13 05 2002;0
+36789;New-York;15 04 2002;67
+45678;Les Iles Baleares;06 05 2002;150
+53456;San Francisco;13 04 2002;327
